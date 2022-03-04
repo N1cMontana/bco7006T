@@ -1,1 +1,1 @@
-# This is a Github connected file
+# This file is connected to Github
