@@ -2,5 +2,6 @@
 
 w = 3
 e = 2
+t = 10
 
-print(w + e)
+print(w + e + t)
