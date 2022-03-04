@@ -1,2 +1,6 @@
 #this is a testing subfolder
-print("Hello World")
+
+w = 3
+e = 2
+
+print(w + e)
